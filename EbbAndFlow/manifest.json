@@ -1,0 +1,14 @@
+{
+  "Name": "Ebb and Flow",
+  "Version": "0.1.0",
+  "Id": "EbbAndFlow.water",
+  "MinimumGameVersion": "0.7.0.0",
+  "Description": "Introduces dynamic water challenges to Timberborn.",
+  "DllName": "EbbAndFlow.ModCode.dll",
+  "RequiredMods": [
+    {
+      "Id": "Harmony",
+      "MinimumVersion": "0.0.0.0"
+    }
+  ]
+}
