@@ -1,5 +1,5 @@
 {
-  "Name": "Ebb and Flow",
+  "Name": "Ebb and Flow: Dynamic Water Challenges",
   "Version": "0.1.0",
   "Id": "EbbAndFlow.water",
   "MinimumGameVersion": "0.7.0.0",
@@ -8,6 +8,10 @@
   "RequiredMods": [
     {
       "Id": "Harmony",
+      "MinimumVersion": "0.0.0.0"
+    },
+    {
+      "Id": "eMka.ModSettings",
       "MinimumVersion": "0.0.0.0"
     }
   ]
